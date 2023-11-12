@@ -12,5 +12,4 @@ Projekt składa się z następujących głównych części:
 - `MNIST_tensorflow.ipynb` - Notebook zawierający implementację modelu do rozpoznawania liczb przy użyciu TensorFlow.
 - `MNIST.ipynb` - Notebook zawierający implementację modelu do rozpoznawania liczb przy użyciu PyTorch.
 - `MNIST_lightning.ipynb` - Notebook zawierający implementację modelu do rozpoznawania liczb przy użyciu PyTorch z Lightning.
-- `data/` - Katalog zawierający dane z zestawu MNIST.
 - `My images` - Katalog z testowymi obrazami spoza zbioru danych
