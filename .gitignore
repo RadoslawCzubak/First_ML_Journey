@@ -1,0 +1,6 @@
+.vscode/
+data/
+lightning_logs/
+runs/
+model*
+__pycache__/
